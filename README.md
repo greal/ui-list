@@ -12,7 +12,8 @@
 - https://vuetifyjs.com
 - https://element.eleme.io
 - https://semantic-ui.com
-- https://github.com/vaadin/vaadin
+- https://vaadin.com/docs/latest/ds/components
+  - https://github.com/vaadin/vaadin
 - https://atlassian.design/components
 - https://www.welcome-ui.com
 - https://josephuspaye.github.io/Keen-UI/#/ui-fileupload
@@ -20,9 +21,14 @@
 - https://quasar.dev/vue-components/icon
 - https://www.primefaces.org/primevue/showcase/#/dialog
 - https://blueprintjs.com/docs/
-    - https://landish.github.io/blueprint-components/
+  - https://landish.github.io/blueprint-components/
 - https://ru.bem.info/libraries/classic/bem-components/
 - https://i.semrush.com
+- https://onsen.io
+- https://developer.microsoft.com/en-us/fluentui
+- https://evergreen.segment.com
+- https://reakit.io
+- https://mantine.dev
 
 # CSS-фреймворки
 

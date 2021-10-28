@@ -3,7 +3,6 @@
 - https://jqueryui.com
 - https://demos.jquerymobile.com
 - https://ant.design
-- https://materializecss.com
 - https://www.infragistics.com/products/ignite-ui-angular/angular/components/autocomplete
 - https://vuikit.js.org
 - https://baseweb.design
@@ -11,7 +10,6 @@
 - https://bootstrap-vue.org
 - https://vuetifyjs.com
 - https://element.eleme.io
-- https://semantic-ui.com
 - https://vaadin.com/docs/latest/ds/components
   - https://github.com/vaadin/vaadin
 - https://atlassian.design/components
@@ -29,9 +27,15 @@
 - https://evergreen.segment.com
 - https://reakit.io
 - https://mantine.dev
+- https://mui.com
+- https://primer.style
+- https://material.angular.io
 
 # CSS-фреймворки
 
-- https://bulma.io/
-- https://getbootstrap.com/
-
+- https://bulma.io
+- https://getbootstrap.com
+- https://semantic-ui.com
+- https://get.foundation
+- https://getuikit.com
+- https://materializecss.com

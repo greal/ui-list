@@ -31,6 +31,7 @@
 - https://primer.style
 - https://material.angular.io
 - https://rsuitejs.com
+- https://primefaces.org
 
 # CSS-фреймворки
 

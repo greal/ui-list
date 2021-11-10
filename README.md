@@ -30,6 +30,7 @@
 - https://mui.com
 - https://primer.style
 - https://material.angular.io
+- https://rsuitejs.com
 
 # CSS-фреймворки
 

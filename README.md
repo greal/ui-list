@@ -32,6 +32,7 @@
 - https://material.angular.io
 - https://rsuitejs.com
 - https://primefaces.org
+- https://www.carbondesignsystem.com
 
 # CSS-фреймворки
 

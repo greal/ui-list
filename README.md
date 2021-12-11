@@ -33,6 +33,7 @@
 - https://rsuitejs.com
 - https://primefaces.org
 - https://www.carbondesignsystem.com
+- https://www.vechaiui.com
 
 # CSS-фреймворки
 

@@ -34,6 +34,7 @@
 - https://primefaces.org
 - https://www.carbondesignsystem.com
 - https://www.vechaiui.com
+- https://www.telerik.com
 
 # CSS-фреймворки
 

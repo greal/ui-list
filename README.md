@@ -35,6 +35,7 @@
 - https://www.carbondesignsystem.com
 - https://www.vechaiui.com
 - https://www.telerik.com
+- https://www.lightningdesignsystem.com
 
 # CSS-фреймворки
 

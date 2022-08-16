@@ -36,6 +36,7 @@
 - https://www.vechaiui.com
 - https://www.telerik.com
 - https://www.lightningdesignsystem.com
+- https://plasma.sberdevices.ru/ui/
 
 # CSS-фреймворки
 

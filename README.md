@@ -37,6 +37,7 @@
 - https://www.telerik.com
 - https://www.lightningdesignsystem.com
 - https://plasma.sberdevices.ru/ui/
+- https://ux.siemens-healthineers.com/ui-marcom/index.html
 
 # CSS-фреймворки
 

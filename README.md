@@ -38,6 +38,7 @@
 - https://www.lightningdesignsystem.com
 - https://plasma.sberdevices.ru/ui/
 - https://ux.siemens-healthineers.com/ui-marcom/index.html
+- https://mineral-ui.netlify.app/components
 
 # CSS-фреймворки
 

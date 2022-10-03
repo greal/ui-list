@@ -40,6 +40,7 @@
 - https://ux.siemens-healthineers.com/ui-marcom/index.html
 - https://mineral-ui.netlify.app/components
 - https://developer.blackbaud.com/skyux/components
+- https://spectrum.adobe.com/
 
 # CSS-фреймворки
 

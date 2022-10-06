@@ -41,6 +41,11 @@
 - https://mineral-ui.netlify.app/components
 - https://developer.blackbaud.com/skyux/components
 - https://spectrum.adobe.com/
+- https://material.balmjs.com/
+- https://oruga.io/
+- https://buefy.org/ - вроде есть уже
+- https://www.primefaces.org/
+- https://www.iviewui.com/
 
 # CSS-фреймворки
 
@@ -50,3 +55,5 @@
 - https://get.foundation
 - https://getuikit.com
 - https://materializecss.com
+- https://tachyons.io
+- https://windicss.org

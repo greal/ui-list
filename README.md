@@ -43,7 +43,6 @@
 - https://spectrum.adobe.com/
 - https://material.balmjs.com/
 - https://oruga.io/
-- https://buefy.org/ - вроде есть уже
 - https://www.primefaces.org/
 - https://www.iviewui.com/
 

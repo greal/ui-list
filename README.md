@@ -45,6 +45,7 @@
 - https://oruga.io/
 - https://www.primefaces.org/
 - https://www.iviewui.com/
+- https://design-system.service.gov.uk/components/
 
 # CSS-фреймворки
 
@@ -56,3 +57,10 @@
 - https://materializecss.com
 - https://tachyons.io
 - https://windicss.org
+
+# Чеклисты
+- https://www.designsystemchecklist.com/
+- https://www.checklist.design/
+- https://not-checklist.intopia.digital/
+- https://www.a11yproject.com/checklist/
+- https://ixdchecklist.com/

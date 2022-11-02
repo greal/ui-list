@@ -6,7 +6,7 @@
 - https://www.infragistics.com/products/ignite-ui-angular/angular/components/autocomplete
 - https://vuikit.js.org
 - :muscle: :heart: https://baseweb.design
-- https://chakra-ui.com
+- :+1: https://chakra-ui.com
 - https://bootstrap-vue.org
 - https://vuetifyjs.com
 - https://element.eleme.io

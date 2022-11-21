@@ -46,6 +46,7 @@
 - https://www.primefaces.org/
 - https://www.iviewui.com/
 - https://design-system.service.gov.uk/components/
+- https://m3.material.io/components
 
 # CSS-фреймворки
 

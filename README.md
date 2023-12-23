@@ -51,6 +51,7 @@
 
 # Laravel
 - https://mary-ui.com
+- https://daisyui.com
 
 # CSS-фреймворки
 

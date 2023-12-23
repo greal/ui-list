@@ -49,6 +49,9 @@
 - https://m3.material.io/components
 - https://a11y-style-guide.com/style-guide/
 
+# Laravel
+- https://mary-ui.com
+
 # CSS-фреймворки
 
 - https://bulma.io
